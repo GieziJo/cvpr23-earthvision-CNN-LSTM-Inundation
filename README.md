@@ -1,0 +1,2 @@
+# Code and Data
+This repo contains the code and data to reproduce the work published in the paper "**Giezendanner et al.** , *Inferring the past: a combined CNN--LSTM deep learning framework to fuse satellites for historical inundation mapping*, CVPR 23 Earthvision workshop".
