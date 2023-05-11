@@ -3,7 +3,7 @@
 This repo contains the code and data to reproduce the work published in the paper ["**Giezendanner et al.** , *Inferring the past: a combined CNN--LSTM deep learning framework to fuse satellites for historical inundation mapping*, CVPR 23 Earthvision workshop"](https://arxiv.org/abs/2305.00640), as well as the inferred dataset.
 
 Use the following citation when these data or model are used:
-Giezendanner, J.; Mukherjee, R.; Purri, M.; Thomas, M.; Mauerman, M.; Islam, A. K. M. S.; Tellman, B. Inferring the Past: A Combined CNN-LSTM Deep Learning Framework to Fuse Satellites for Historical Inundation Mapping. arXiv April 30, 2023. http://arxiv.org/abs/2305.00640
+> Giezendanner, J.; Mukherjee, R.; Purri, M.; Thomas, M.; Mauerman, M.; Islam, A. K. M. S.; Tellman, B. Inferring the Past: A Combined CNN-LSTM Deep Learning Framework to Fuse Satellites for Historical Inundation Mapping. arXiv April 30, 2023. http://arxiv.org/abs/2305.00640
 
 # Inferred dataset
 ## Fractional Inundated Area for Bangladesh, 2001-2022, 500 meters resolution, every 8 days
