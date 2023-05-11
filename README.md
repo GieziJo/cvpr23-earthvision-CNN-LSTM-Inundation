@@ -1,8 +1,12 @@
 > :warning: Repo is being built, should be updated with the code and data soon
 
-This repo contains the code and data to reproduce the work published in the paper "**Giezendanner et al.** , *Inferring the past: a combined CNN--LSTM deep learning framework to fuse satellites for historical inundation mapping*, CVPR 23 Earthvision workshop", as well as the inferred dataset.
+This repo contains the code and data to reproduce the work published in the paper ["**Giezendanner et al.** , *Inferring the past: a combined CNN--LSTM deep learning framework to fuse satellites for historical inundation mapping*, CVPR 23 Earthvision workshop"](https://arxiv.org/abs/2305.00640), as well as the inferred dataset.
 
-# Inferred dataset (Fractional Inundated Area for Bangladesh, 2001-2022, 500 meters resolution, every 8 days)
+Use the following citation when these data or model are used:
+Giezendanner, J.; Mukherjee, R.; Purri, M.; Thomas, M.; Mauerman, M.; Islam, A. K. M. S.; Tellman, B. Inferring the Past: A Combined CNN-LSTM Deep Learning Framework to Fuse Satellites for Historical Inundation Mapping. arXiv April 30, 2023. http://arxiv.org/abs/2305.00640
+
+# Inferred dataset
+## Fractional Inundated Area for Bangladesh, 2001-2022, 500 meters resolution, every 8 days
 
 The model output dataset contains 985 `.tiff` files covering most of Bangladesh every 8 days, at 500 meters resolution, from 2001 to 2022.
 The dataset can be found at [10.25739/2edm-jh03](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Giezendanner_BangladeshInundationHistory_Mai2023).
