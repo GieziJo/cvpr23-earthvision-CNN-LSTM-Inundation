@@ -27,7 +27,7 @@ The data is expressed in 32x32 500 meter resolution chips.
 The code is organised as follow:
 - `Source/0_ModelTraining` contains the code to train and cross-validate the model.
 - `Source/1_Inference` contains the code to run inference on the trained model.
-- `Helpers` contains diverse helper functions
-- `ModelClasses` contains the classes of the model
+- `Source/Helpers` contains diverse helper functions
+- `Source/ModelClasses` contains the classes of the model
 
 Both the code for the CNN-LSTM proposed in the paper, as well as the trained weights (see [release](https://github.com/GieziJo/cvpr23-earthvision-CNN-LSTM-Inundation/releases/tag/v1.0.0)) are provided.
