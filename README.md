@@ -13,7 +13,7 @@ The dataset can be found at [10.25739/2edm-jh03](https://datacommons.cyverse.org
 # Model and data
 ## Data
 
-The data for training (cross-validation) and inference can be downloaded [here](https://data.cyverse.org/dav-anon/iplant/home/jgiezendanner/CVPR23Data)
+The data for training (cross-validation) and inference can be found at [10.25739/be28-vs34](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Giezendanner_BangladeshCNNLSTMModelData_June2023).
 
 The following data is available:
 - Fractional inundated area generated from [Sentinel-1 binary map](https://ieeexplore.ieee.org/document/10042166)
