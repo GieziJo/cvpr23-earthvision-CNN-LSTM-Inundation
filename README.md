@@ -1,3 +1,5 @@
+[![CVPR Earthvision](https://img.shields.io/badge/CVPR_Earthvision-10.1109%2FCVPRW59228.2023.00209-blue)]([https://arxiv.org/abs/2410.12938](https://ieeexplore.ieee.org/document/10208542))
+
 This repo contains the code and data to reproduce the work published in the paper ["**Giezendanner et al.** , *Inferring the past: a combined CNN--LSTM deep learning framework to fuse satellites for historical inundation mapping*, CVPR 23 Earthvision workshop"](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Giezendanner_Inferring_the_Past_A_Combined_CNN-LSTM_Deep_Learning_Framework_To_CVPRW_2023_paper.html), as well as the inferred dataset.
 
 Use the following citation when these data or model are used:
